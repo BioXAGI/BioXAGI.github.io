@@ -23,6 +23,12 @@
     return "https://github.com/" + p.account + "/" + p.name;
   }
 
+  /* Display form of a profile URL. Derived rather than hardcoded so a renamed
+     account can't leave a link whose text disagrees with where it points. */
+  function bare(url) {
+    return url.replace(/^https?:\/\//, "").replace(/\/$/, "");
+  }
+
   /* ---------- masthead ---------- */
 
   function renderProfile() {
@@ -37,9 +43,9 @@
     var contact = $("p-contact");
     [
       link("mailto:" + PROFILE.email, PROFILE.email),
-      link(PROFILE.linkedin, "linkedin.com/in/di-feng"),
-      link(PROFILE.github, "github.com/d-feng"),
-      link(PROFILE.githubAlt, "github.com/fengdi2015"),
+      link(PROFILE.linkedin, bare(PROFILE.linkedin)),
+      link(PROFILE.github, bare(PROFILE.github)),
+      link(PROFILE.githubAlt, bare(PROFILE.githubAlt)),
       el("span", null, PROFILE.location)
     ].forEach(function (node) {
       var li = el("li");

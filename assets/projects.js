@@ -11,7 +11,7 @@ const PROFILE = {
   email: "di.feng.info@gmail.com",
   linkedin: "https://linkedin.com/in/di-feng",
   github: "https://github.com/d-feng",
-  githubAlt: "https://github.com/fengdi2015",
+  githubAlt: "https://github.com/BioXAGI",
   summary:
     "Computational biologist and AI/ML leader with 20+ years of cross-disciplinary " +
     "experience — 13 of them in the pharmaceutical industry — spanning drug discovery, " +
@@ -38,7 +38,7 @@ const CATEGORIES = [
 const PROJECTS = [
   {
     name: "antigen-combos",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "targets",
     featured: true,
     lang: "Python",
@@ -67,7 +67,7 @@ const PROJECTS = [
   },
   {
     name: "BioAgent",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "agents",
     featured: true,
     lang: "Python",
@@ -95,7 +95,7 @@ const PROJECTS = [
   },
   {
     name: "deconv",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "targets",
     featured: true,
     lang: "R",
@@ -122,7 +122,7 @@ const PROJECTS = [
   },
   {
     name: "ECSearch",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "targets",
     lang: "Python",
     tagline: "Two- and three-arm cancer target combination design",
@@ -135,7 +135,7 @@ const PROJECTS = [
   },
   {
     name: "search",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "targets",
     lang: "Python",
     tagline: "immune-crispr — immune-phenotype gene search from CRISPR screens",
@@ -207,7 +207,7 @@ const PROJECTS = [
   },
   {
     name: "Discovery-Stack",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "agents",
     lang: "Python",
     tagline: "Modular AI infrastructure layer for scientific discovery",
@@ -218,7 +218,7 @@ const PROJECTS = [
   },
   {
     name: "cbioportal_run",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "data",
     lang: "Python",
     tagline: "GEO series downloader and cBioPortal plotting workflow",
@@ -252,7 +252,7 @@ const PROJECTS = [
   },
   {
     name: "scData_agent",
-    account: "fengdi2015",
+    account: "BioXAGI",
     category: "data",
     lang: "Python",
     tagline: "Workflow-oriented GEO single-cell downloader",

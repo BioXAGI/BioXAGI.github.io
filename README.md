@@ -49,7 +49,7 @@ Everything you'd want to change is in `assets/projects.js`:
 - `PROFILE` — name, title, contact links, summary, the four stat tiles
 - `CATEGORIES` — the filter buttons above the project grid
 - `PROJECTS` — one object per repo. `account` decides the GitHub URL, so repos under
-  both `d-feng` and `fengdi2015` coexist in one grid. Set `featured: true` to tint the
+  both `d-feng` and `BioXAGI` coexist in one grid. Set `featured: true` to tint the
   card and float it to the top. Optional `doi` adds a second "Paper" link.
 - `SKILLS`, `PUBLICATIONS` — the lower two sections
 
@@ -66,38 +66,26 @@ Then open <http://localhost:8020>.
 
 ## Deploying
 
-The site is currently **local only — nothing has been pushed.**
-
-### Option A — refresh the existing site at `d-feng.github.io`
-
-This is the URL the CV points at. The repo already holds a Vite/TypeScript SPA that
-publishes from `master` branch, `/docs` folder. To replace it with this site, copy
-these files into `docs/` and push:
+This repo **is** the deployment: `BioXAGI/BioXAGI.github.io`, served from `main` at
+the repo root, live at <https://bioxagi.github.io>. Push to `main` and Pages rebuilds;
+there is no build step to run first.
 
 ```bash
-gh auth switch --user d-feng
-git clone https://github.com/d-feng/d-feng.github.io.git
+git add -A && git commit -m "…" && git push
 ```
 
-Then copy `index.html`, `assets/`, and `.nojekyll` into the clone's `docs/` directory,
-commit, and push. Pages settings need no change — the source is already `master:/docs`.
+### Account note
 
-Note: the current `gh` login (`fengdi2015`) has read-only access to that repo, so the
-auth switch is required.
+The GitHub account formerly named `fengdi2015` is now **`BioXAGI`** — the old name no
+longer resolves at all (`users/fengdi2015` returns 404). Anything still pointing at
+`github.com/fengdi2015/…` is dead and needs updating. The other account, `d-feng`, is
+unaffected and still hosts roughly half the linked projects.
 
-### Option B — new site at `fengdi2015.github.io`
+Because a user site must be named `<account>.github.io`, renaming the account again
+would also require renaming this repo to match.
 
-Publishes at <https://fengdi2015.github.io> from the repo root:
+### Serving from somewhere else
 
-```bash
-gh repo create fengdi2015.github.io --public --source=. --push
-```
-
-Run that from this directory after `git init && git add -A && git commit`. Then enable
-Pages on `main` / root in the repo settings.
-
-### Option C — project page under any repo
-
-Copy into a `docs/` folder of an existing repo and set Pages source to `main:/docs`.
-All asset paths are relative, so it works under a subpath like
-`https://<user>.github.io/<repo>/`.
+All asset paths are relative, so the same files work as a project page: copy them into
+a `docs/` folder of any repo and set Pages source to `main:/docs`, which serves at
+`https://<account>.github.io/<repo>/`.
