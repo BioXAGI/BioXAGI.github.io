@@ -1,0 +1,304 @@
+/* Interactive demo panels inside project cards. */
+
+.demo-panel {
+  margin-top: 16px;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: var(--paper);
+  padding: 12px 14px 14px;
+  min-width: 0;
+}
+
+.is-featured .demo-panel { background: var(--paper); }
+
+.demo-head {
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  padding-bottom: 9px;
+  margin-bottom: 11px;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+.demo-host { min-width: 0; }
+
+/* With a demo attached the card is tall enough already; don't also push the
+   source links to the bottom with margin-top:auto. */
+.card.has-demo .links { margin-top: 14px; }
+
+/* ---------- kit atoms ---------- */
+
+.dk-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  min-width: 0;
+}
+
+.dk-seg { display: inline-flex; flex-wrap: wrap; gap: 4px; min-width: 0; }
+
+.dk-seg button,
+.dk-bar > button {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 4px 9px;
+  cursor: pointer;
+  transition: background .12s, border-color .12s, color .12s;
+}
+.dk-seg button:hover,
+.dk-bar > button:hover { border-color: var(--navy); color: var(--navy); }
+
+.dk-seg button[aria-pressed="true"] {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: #fff;
+}
+
+.dk-bar > button.dk-play { background: var(--navy-wash); border-color: #c9d9e8; color: var(--navy); }
+.dk-bar > button.dk-play:hover { background: #e2ecf5; }
+
+.dk-slider {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+}
+.dk-slider .dk-lab { white-space: nowrap; }
+.dk-slider input[type="range"] { width: 108px; accent-color: var(--navy); }
+.dk-slider .dk-out { color: var(--navy); min-width: 3.4em; }
+
+.dk-read {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(74px, 1fr));
+  gap: 10px;
+  margin-top: 12px;
+  padding-top: 11px;
+  border-top: 1px solid var(--rule-soft);
+}
+.dk-read-cell b {
+  display: block;
+  font-family: var(--mono);
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: var(--navy);
+  line-height: 1.25;
+}
+.dk-read-cell b.tone-good { color: #2e7d5b; }
+.dk-read-cell b.tone-warn { color: #b06a1f; }
+.dk-read-cell b.tone-bad  { color: #a63d3d; }
+.dk-read-cell span {
+  font-size: 0.66rem;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.dk-note {
+  margin: 11px 0 0;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: var(--ink-faint);
+}
+
+.dk-stage {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: var(--paper-alt);
+  border: 1px solid var(--rule-soft);
+  border-radius: 2px;
+}
+
+.dk-stage text { font-family: var(--mono); fill: var(--ink-soft); }
+.dk-stage .lab { font-size: 8px; fill: #757d85; }
+.dk-stage .lab-sm { font-size: 6.5px; fill: #757d85; }
+.dk-stage .lab-hd { font-size: 8px; fill: #16191d; font-weight: 600; }
+
+/* log / console list used by the agent demos */
+.dk-log {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--mono);
+  font-size: 0.71rem;
+  line-height: 1.6;
+  max-height: 168px;
+  overflow-y: auto;
+}
+.dk-log li {
+  padding: 3px 0 3px 15px;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--rule-soft);
+  position: relative;
+  animation: dk-in .28s ease-out;
+}
+.dk-log li:last-child { border-bottom: 0; }
+.dk-log li::before {
+  content: "\203A";
+  position: absolute;
+  left: 2px;
+  color: var(--ink-faint);
+}
+.dk-log li.ok::before    { content: "\2713"; color: #2e7d5b; }
+.dk-log li.warn::before  { content: "!";     color: #b06a1f; }
+.dk-log li.bad::before   { content: "\2717"; color: #a63d3d; }
+.dk-log li.run::before   { content: "\25B8"; color: #1f4e79; }
+.dk-log li b { color: var(--ink); font-weight: 600; }
+.dk-log li i { color: var(--ink-faint); font-style: normal; }
+
+@keyframes dk-in {
+  from { opacity: 0; transform: translateY(-3px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* section caption inside a demo */
+.dk-cap {
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin: 10px 0 5px;
+}
+
+/* two-column plan / trace layout (BioAgent) */
+.dk-split {
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 0 16px;
+  align-items: start;
+}
+
+/* agent plan checklist */
+.dk-todo {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: todo;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  line-height: 1.5;
+}
+.dk-todo li {
+  position: relative;
+  padding: 3px 0 3px 17px;
+  color: var(--ink-faint);
+  transition: color .2s;
+}
+.dk-todo li::before {
+  content: "\25CB";
+  position: absolute;
+  left: 1px;
+  color: var(--rule);
+}
+.dk-todo li.active { color: var(--navy); font-weight: 600; }
+.dk-todo li.active::before { content: "\25CF"; color: #1f4e79; }
+.dk-todo li.done { color: var(--ink-soft); }
+.dk-todo li.done::before { content: "\2713"; color: #2e7d5b; }
+.dk-todo li.redo { color: #b06a1f; }
+.dk-todo li.redo::before { content: "\21BA"; color: #b06a1f; }
+
+/* search box (biomni-launcher-ui) */
+.dk-input {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 5px 9px;
+  width: 100%;
+  max-width: 260px;
+}
+.dk-input:focus { outline: none; border-color: var(--navy); }
+
+/* ranked results with score bars */
+.dk-rank {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+}
+.dk-rank li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 70px 32px;
+  gap: 8px;
+  align-items: center;
+  padding: 4px 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+.dk-rank li:last-child { border-bottom: 0; }
+.dk-rank li.dim { opacity: 0.42; }
+.dk-rank-t {
+  color: var(--ink-soft);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.dk-rank-b {
+  display: block;
+  height: 5px;
+  background: var(--rule);
+  border-radius: 1px;
+  overflow: hidden;
+}
+.dk-rank-b i {
+  display: block;
+  height: 100%;
+  background: var(--navy);
+  transition: width .18s ease-out;
+}
+.dk-rank-n { color: var(--navy); text-align: right; }
+
+/* small inline table used by a few demos */
+.dk-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--mono);
+  font-size: 0.71rem;
+}
+.dk-table th {
+  text-align: left;
+  font-weight: 500;
+  color: var(--ink-faint);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.63rem;
+  padding: 0 8px 5px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.dk-table td {
+  padding: 4px 8px 4px 0;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.dk-table td.num { text-align: right; color: var(--navy); }
+.dk-table tr.dim td { color: var(--ink-faint); opacity: .55; }
+
+@media (prefers-reduced-motion: reduce) {
+  .dk-log li { animation: none; }
+  .dk-stage * { transition: none !important; }
+}
+
+@media (max-width: 780px) {
+  .dk-slider input[type="range"] { width: 84px; }
+  .dk-log { max-height: 140px; }
+  .dk-split { grid-template-columns: 1fr; gap: 4px; }
+  .dk-rank li { grid-template-columns: minmax(0, 1fr) 46px 30px; }
+  /* A nowrap slider label sets a ~278px min-content floor, which the card's
+     grid track then honours and pushes past a 375px viewport. */
+  .dk-slider { flex-wrap: wrap; }
+  .dk-slider .dk-lab { white-space: normal; }
+}
