@@ -1,0 +1,118 @@
+{
+  "checked": "2026-10-31",
+  "scope": "Targeted initial review, not an exhaustive lab or vacancy census. Advertised means recruiting language was found; availability has not been confirmed with the lab. Additional opportunity-only labs do not have complete atlas profiles and are not added to graph or funding ranks.",
+  "labs": [
+    {
+      "name": "Dongyuan Song \u00b7 DS Lab",
+      "institution": "UConn Health",
+      "personId": null,
+      "status": "advertised",
+      "roles": [
+        "Postdoc",
+        "PhD"
+      ],
+      "methods": "Statistical modeling, AI and bioinformatics for single-cell and spatial omics.",
+      "details": "Lab advertises one postdoc and one Biomedical Science PhD student. Postdoc requirements include a quantitative PhD and R/Python; review continues until filled. The technician application closed June 17, 2026 and is not included as open.",
+      "url": "https://dsong-lab.github.io/openings/",
+      "researchUrl": "https://dsong-lab.github.io/",
+      "date": "Posting date unstated; technician closure explicitly dated 2026-06-17",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Ion I. Mandoiu",
+      "institution": "UConn Storrs",
+      "personId": "ion-mandoiu",
+      "status": "advertised",
+      "roles": [
+        "PhD",
+        "Undergraduate"
+      ],
+      "methods": "Applied algorithms, bioinformatics and computational genomics.",
+      "details": "Faculty homepage advertises PhD positions and undergraduate projects. Requested background: algorithms, discrete mathematics, machine learning/statistics and programming. Send a resume or request an appointment via the source.",
+      "url": "https://dna.engr.uconn.edu/",
+      "researchUrl": "https://engineering.uconn.edu/faculty/cse/ion-mandoiu/",
+      "date": "Posting date unstated; homepage includes Fall 2026 office hours",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Mukul Bansal \u00b7 Computational Biology Research Lab",
+      "institution": "UConn Storrs",
+      "personId": null,
+      "status": "advertised",
+      "roles": [
+        "PhD",
+        "Undergraduate"
+      ],
+      "methods": "Algorithms and software for tumor phylogenetics, genome evolution and infectious-disease transmission inference.",
+      "details": "Lab homepage lists PhD positions and research opportunities for qualified UConn undergraduates. Linked PhD flyer is older; the homepage invitation does not establish a current funded place or deadline.",
+      "url": "https://compbio.engr.uconn.edu/",
+      "researchUrl": "https://compbio.engr.uconn.edu/",
+      "date": "Homepage advertisement undated; linked PhD flyer dates to 2018",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Mark Gerstein",
+      "institution": "Yale",
+      "personId": "yale-gerstein",
+      "status": "advertised",
+      "roles": [
+        "Postdoc",
+        "PhD",
+        "Undergraduate",
+        "Masters"
+      ],
+      "methods": "Bioinformatics, genome annotation, disease genomics, structural simulation and AI/deep learning.",
+      "details": "Jobs page advertises a computational postdoc, describes PhD application routes and invites undergraduate/Masters research inquiries. This is an evergreen page with no verified current vacancy count.",
+      "url": "https://sites.gersteinlab.org/jobs/",
+      "researchUrl": "https://sites.gersteinlab.org/jobs/",
+      "date": "Undated evergreen recruiting text; posting freshness unverified",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Robb Rutledge",
+      "institution": "Yale",
+      "personId": null,
+      "status": "advertised",
+      "roles": [
+        "Postdoc",
+        "Research technician"
+      ],
+      "methods": "Computational models of learning, decision making and emotion; computational psychiatry and neuroeconomics.",
+      "details": "Lab accepts postdoc and research-technician applications until filled. Postdocs need computational-modeling experience; technicians need programming experience. Source requests a cover letter and CV.",
+      "url": "https://rutledgelab.org/positions",
+      "researchUrl": "https://rutledgelab.org/positions",
+      "date": "Posting date unstated; review until filled",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Duygu Ucar",
+      "institution": "JAX-affiliated",
+      "personId": "jax-ucar",
+      "status": "general",
+      "roles": [
+        "Postdoc",
+        "PhD",
+        "Visiting scholar"
+      ],
+      "methods": "Network theory and machine learning for single-cell genomics, epigenomics and systems immunology.",
+      "details": "Join page seeks graduate students, postdocs and visiting scholars. Computational methods are explicit on the JAX research page, but the recruitment text does not specify a computational role. UConn Health PhD/MD-PhD rotations are mentioned; this remains a JAX lab.",
+      "url": "https://ucarlab.org/join-us/",
+      "researchUrl": "https://www.jax.org/research-and-faculty/research-labs/the-ucar-lab",
+      "date": "Recruiting page undated",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "Mikhail L. Blinov",
+      "institution": "UConn Health",
+      "personId": "mikhail-blinov",
+      "status": "methods",
+      "roles": [],
+      "methods": "Mathematical and rule-based modeling, biological software, machine learning and data visualization.",
+      "details": "Projects list Python, scikit-learn, web/API development and modeling tasks. These project descriptions are not a verified job advertisement; no vacancy inferred.",
+      "url": "https://health.uconn.edu/blinov-lab/projects/",
+      "researchUrl": "https://health.uconn.edu/blinov-lab/",
+      "date": "Project-specific dates vary; no vacancy date verified",
+      "checked": "2026-10-31"
+    }
+  ]
+}
