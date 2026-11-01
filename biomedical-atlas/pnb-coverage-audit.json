@@ -1,0 +1,279 @@
+{
+  "checked": "2026-11-01",
+  "source": "https://pnb.uconn.edu/faculty/",
+  "currentFacultyCount": 25,
+  "previouslyIncluded": 5,
+  "added": 20,
+  "currentFaculty": [
+    {
+      "id": "storrs-randall-walikonis",
+      "name": "Randall Walikonis",
+      "role": "Associate Professor and Department Head",
+      "url": "https://pnb.uconn.edu/person/randall/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-payam-andalib",
+      "name": "Payam Andalib",
+      "role": "Assistant Clinical Professor and Director of Intraoperative Neuromonitoring",
+      "url": "https://pnb.uconn.edu/person/payam-andalib/",
+      "researchCoverage": "Directory profile only — current laboratory research not established"
+    },
+    {
+      "id": "storrs-xinnian-chen",
+      "name": "Xinnian Chen",
+      "role": "Professor-in-Residence and Director of Undergraduate Studies, Faculty Affiliate for Collaborative Faculty Development and Strategic Projects, Center for Excellence in Teaching and Learning (CETL)",
+      "url": "https://pnb.uconn.edu/person/xinnian/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-joanne-conover",
+      "name": "Joanne Conover",
+      "role": "Professor",
+      "url": "https://pnb.uconn.edu/person/joanne/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-joseph-crivello",
+      "name": "Joseph Crivello",
+      "role": "Professor",
+      "url": "https://pnb.uconn.edu/person/joseph-2/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-jeffrey-divino",
+      "name": "Jeffrey Divino",
+      "role": "Associate Professor-in-Residence",
+      "url": "https://pnb.uconn.edu/person/jeffrey/",
+      "researchCoverage": "Directory profile only — current laboratory research not established"
+    },
+    {
+      "id": "storrs-radmila-filipovic",
+      "name": "Radmila Filipovic",
+      "role": "Professor-in-Residence and Academic Director of Intraoperative Neuromonitoring",
+      "url": "https://pnb.uconn.edu/person/radmila-filipovic/",
+      "researchCoverage": "Directory profile only — current laboratory research not established"
+    },
+    {
+      "id": "storrs-jackson",
+      "name": "Alexander Jackson",
+      "role": "Associate Professor",
+      "url": "https://pnb.uconn.edu/person/alexander/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-rahul-kanadia",
+      "name": "Rahul Kanadia",
+      "role": "Associate Professor",
+      "url": "https://pnb.uconn.edu/person/rahul/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-teisha-king",
+      "name": "Teisha King",
+      "role": "Visiting Assitant Professor Contact Information",
+      "url": "https://pnb.uconn.edu/person/teisha-king/",
+      "researchCoverage": "Directory profile only — current laboratory research not established"
+    },
+    {
+      "id": "storrs-nicole-krauss",
+      "name": "Nicole Krauss",
+      "role": "Assistant Professor-in-Residence",
+      "url": "https://pnb.uconn.edu/person/nicole-krauss/",
+      "researchCoverage": "Directory profile only — current laboratory research not established"
+    },
+    {
+      "id": "storrs-joseph-loturco",
+      "name": "Joseph LoTurco",
+      "role": "Professor",
+      "url": "https://pnb.uconn.edu/person/joseph/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-karen-menuz",
+      "name": "Karen Menuz",
+      "role": "Associate Professor and Director of Graduate Studies Physiology and Neurobiology",
+      "url": "https://pnb.uconn.edu/person/karen/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-andrew-moiseff",
+      "name": "Andrew Moiseff",
+      "role": "Professor and Associate Dean for Research and Graduate Affairs",
+      "url": "https://pnb.uconn.edu/person/andrew/",
+      "researchCoverage": "Directory profile only — current laboratory research not established"
+    },
+    {
+      "id": "storrs-daniel-mulkey",
+      "name": "Daniel Mulkey",
+      "role": "Professor",
+      "url": "https://pnb.uconn.edu/person/daniel/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-linnaea-ostroff",
+      "name": "Linnaea Ostroff",
+      "role": "Associate Professor & Faculty Director of Bioscience EM Lab",
+      "url": "https://pnb.uconn.edu/person/linnaea/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-john-redden",
+      "name": "John Redden",
+      "role": "Professor-in-Residence",
+      "url": "https://pnb.uconn.edu/person/john/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-scott-rich",
+      "name": "Scott Rich",
+      "role": "Assistant Professor",
+      "url": "https://pnb.uconn.edu/person/scott-rich/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-daniel-schwartz",
+      "name": "Daniel Schwartz",
+      "role": "Vice Provost for Academic Operations",
+      "url": "https://pnb.uconn.edu/person/daniel-s/",
+      "researchCoverage": "Directory profile only — current laboratory research not established"
+    },
+    {
+      "id": "storrs-natale-sciolino",
+      "name": "Natale Sciolino",
+      "role": "Assistant Professor",
+      "url": "https://pnb.uconn.edu/person/natale/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-jianjun-sun",
+      "name": "Jianjun Sun",
+      "role": "Professor",
+      "url": "https://pnb.uconn.edu/person/jianjun/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-geoffrey-tanner",
+      "name": "Geoffrey Tanner",
+      "role": "Associate Professor-in-Residence",
+      "url": "https://pnb.uconn.edu/person/geoffrey/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-anastasios-tzingounis",
+      "name": "Anastasios Tzingounis",
+      "role": "Professor and Associate Department Head",
+      "url": "https://pnb.uconn.edu/person/anastasios/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-jianzhong-yu",
+      "name": "Jianzhong Yu",
+      "role": "Associate Professor",
+      "url": "https://pnb.uconn.edu/person/jianzhong-yu/",
+      "researchCoverage": "Research topics documented"
+    },
+    {
+      "id": "storrs-georgia-zarkada",
+      "name": "Georgia Zarkada",
+      "role": "Assistant Professor",
+      "url": "https://pnb.uconn.edu/person/georgia-zarkada/",
+      "researchCoverage": "Research topics documented"
+    }
+  ],
+  "emeritusDirectoryEntries": [
+    {
+      "name": "Marie Cantino",
+      "url": "https://pnb.uconn.edu/person/marie/",
+      "text": "Marie Cantino Associate Professor Emeritus Contact Information Email marie.cantino@uconn.edu",
+      "links": [
+        {
+          "text": "marie.cantino@uconn.edu",
+          "url": "mailto:marie.cantino@uconn.edu"
+        }
+      ]
+    },
+    {
+      "name": "Angel de Blas",
+      "url": "https://pnb.uconn.edu/person/angel/",
+      "text": "Angel de Blas Professor Emeritus Contact Information Email angel.deblas@uconn.edu Phone (860) 486-5440",
+      "links": [
+        {
+          "text": "angel.deblas@uconn.edu",
+          "url": "mailto:angel.deblas@uconn.edu"
+        }
+      ]
+    },
+    {
+      "name": "Robert Gallo",
+      "url": "https://pnb.uconn.edu/person/robert/",
+      "text": "Robert Gallo Professor Emeritus Contact Information Email robert.gallo@uconn.edu",
+      "links": [
+        {
+          "text": "robert.gallo@uconn.edu",
+          "url": "mailto:robert.gallo@uconn.edu"
+        }
+      ]
+    },
+    {
+      "name": "Kristen Kimball",
+      "url": "https://pnb.uconn.edu/person/kristen/",
+      "text": "Kristen Kimball Lecturer Contact Information Email kristen.kimball@uconn.edu Phone (860) 486-5149 Office Location TLS 019A",
+      "links": [
+        {
+          "text": "kristen.kimball@uconn.edu",
+          "url": "mailto:kristen.kimball@uconn.edu"
+        }
+      ]
+    },
+    {
+      "name": "Akiko Nishiyama",
+      "url": "https://pnb.uconn.edu/person/akiko/",
+      "text": "Akiko Nishiyama Professor Emeritus Email: akiko.nishiyama@uconn.edu Phone: (860) 486-4561 Office Location: PBB 631 Education: M.D., Nippon Medical School, Ph.D., Niigata (Japan) Website: Nishiyama Lab Research Summary: Research focuses on molecular and cellular mechanisms of heterogeneity and lineage plasticity of NG2 glial cells (also known as polydendrocytes or oligodendrocyte precursor cells) and neuron-glial interactions in normal development and in lesion repair.  Techniques used in the lab include mouse genetics combined with immunohistochemistry, tissue culture, fluorescence and confocal microscopy, and biochemical and molecular biological techniques including RNA-sequencing and ChIP sequencing. Contact Information Email akiko.nishiyama@uconn.edu",
+      "links": [
+        {
+          "text": "akiko.nishiyama@uconn.edu",
+          "url": "mailto:akiko.nishiyama@uconn.edu"
+        },
+        {
+          "text": "Nishiyama Lab",
+          "url": "https://akiko-nishiyama.uconn.edu/"
+        },
+        {
+          "text": "akiko.nishiyama@uconn.edu",
+          "url": "mailto:akiko.nishiyama@uconn.edu"
+        }
+      ]
+    },
+    {
+      "name": "J. Larry Renfro",
+      "url": "https://pnb.uconn.edu/person/j-larry/",
+      "text": "J. Larry Renfro Professor Emeritus Contact Information Email larry.renfro@uconn.edu",
+      "links": [
+        {
+          "text": "larry.renfro@uconn.edu",
+          "url": "mailto:larry.renfro@uconn.edu"
+        }
+      ]
+    }
+  ],
+  "inMemoriamDirectoryEntries": [
+    {
+      "name": "Alan Brush",
+      "url": "https://pnb.uconn.edu/person/alan-brush/",
+      "text": "Alan Brush Professor Emeritus Contact Information",
+      "links": []
+    },
+    {
+      "name": "William Chapple",
+      "url": "https://pnb.uconn.edu/person/william-chapple/",
+      "text": "William Chapple Professor Emeritus Contact Information",
+      "links": []
+    }
+  ],
+  "notes": [
+    "Directory categories retained. Emeritus and in-memoriam entries are recorded in this audit, not added as current labs.",
+    "Current faculty listing does not prove an active lab, patient care, sample access or current recruiting availability.",
+    "Five-year comparison window remains 2021-10-28 through 2026-10-28."
+  ]
+}

@@ -3,7 +3,7 @@
   "scope": "Targeted initial review, not an exhaustive lab or vacancy census. Advertised means recruiting language was found; availability has not been confirmed with the lab. Additional opportunity-only labs do not have complete atlas profiles and are not added to graph or funding ranks.",
   "labs": [
     {
-      "name": "Dongyuan Song \u00b7 DS Lab",
+      "name": "Dongyuan Song · DS Lab",
       "institution": "UConn Health",
       "personId": null,
       "status": "advertised",
@@ -35,7 +35,7 @@
       "checked": "2026-10-31"
     },
     {
-      "name": "Mukul Bansal \u00b7 Computational Biology Research Lab",
+      "name": "Mukul Bansal · Computational Biology Research Lab",
       "institution": "UConn Storrs",
       "personId": null,
       "status": "advertised",
@@ -113,6 +113,23 @@
       "researchUrl": "https://health.uconn.edu/blinov-lab/",
       "date": "Project-specific dates vary; no vacancy date verified",
       "checked": "2026-10-31"
+    },
+    {
+      "name": "Scott Rich · Rich Lab",
+      "institution": "UConn Storrs",
+      "personId": "storrs-scott-rich",
+      "status": "advertised",
+      "roles": [
+        "Undergraduate",
+        "PhD",
+        "Postdoc"
+      ],
+      "methods": "Biophysically detailed neuron models, in silico microcircuits and mathematical models of large-scale brain activity.",
+      "details": "PNB profile explicitly seeks undergraduates, graduate students and postdocs interested in computational neuroscience. This undated invitation does not confirm a funded vacancy or current availability. Follow the official profile for the lab and interest form.",
+      "url": "https://pnb.uconn.edu/person/scott-rich/",
+      "researchUrl": "https://richlab.pnb.uconn.edu/",
+      "date": "Undated recruitment text",
+      "checked": "2026-11-01"
     }
   ]
 }

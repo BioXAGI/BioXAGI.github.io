@@ -1,12 +1,12 @@
 {
   "counts": {
-    "researchers": 106,
-    "uniquePublications": 553,
-    "researcherPublicationLinks": 631,
-    "uniqueAwardRecords": 985,
-    "researcherAwardLinks": 1014,
+    "researchers": 126,
+    "uniquePublications": 564,
+    "researcherPublicationLinks": 644,
+    "uniqueAwardRecords": 1032,
+    "researcherAwardLinks": 1071,
     "publicationStatus": {
-      "searched": 106
+      "searched": 126
     }
   },
   "publications": {
@@ -294,6 +294,37 @@
           "storrs-jonathan-klassen"
         ],
         "window": "2021-10-28 through 2026-10-28 retained for comparison"
+      },
+      {
+        "date": "2026-11-01",
+        "researcherIds": [
+          "storrs-randall-walikonis",
+          "storrs-payam-andalib",
+          "storrs-xinnian-chen",
+          "storrs-joanne-conover",
+          "storrs-joseph-crivello",
+          "storrs-jeffrey-divino",
+          "storrs-radmila-filipovic",
+          "storrs-jackson",
+          "storrs-rahul-kanadia",
+          "storrs-teisha-king",
+          "storrs-nicole-krauss",
+          "storrs-joseph-loturco",
+          "storrs-karen-menuz",
+          "storrs-andrew-moiseff",
+          "storrs-daniel-mulkey",
+          "storrs-linnaea-ostroff",
+          "storrs-john-redden",
+          "storrs-scott-rich",
+          "storrs-daniel-schwartz",
+          "storrs-natale-sciolino",
+          "storrs-jianjun-sun",
+          "storrs-geoffrey-tanner",
+          "storrs-anastasios-tzingounis",
+          "storrs-jianzhong-yu",
+          "storrs-georgia-zarkada"
+        ],
+        "window": "2021-10-28 through 2026-10-28 retained for comparison"
       }
     ]
   },
@@ -325,6 +356,37 @@
           "storrs-jonathan-klassen"
         ],
         "window": "2021-10-28 through 2026-10-28 retained for comparison"
+      },
+      {
+        "date": "2026-11-01",
+        "researcherIds": [
+          "storrs-randall-walikonis",
+          "storrs-payam-andalib",
+          "storrs-xinnian-chen",
+          "storrs-joanne-conover",
+          "storrs-joseph-crivello",
+          "storrs-jeffrey-divino",
+          "storrs-radmila-filipovic",
+          "storrs-jackson",
+          "storrs-rahul-kanadia",
+          "storrs-teisha-king",
+          "storrs-nicole-krauss",
+          "storrs-joseph-loturco",
+          "storrs-karen-menuz",
+          "storrs-andrew-moiseff",
+          "storrs-daniel-mulkey",
+          "storrs-linnaea-ostroff",
+          "storrs-john-redden",
+          "storrs-scott-rich",
+          "storrs-daniel-schwartz",
+          "storrs-natale-sciolino",
+          "storrs-jianjun-sun",
+          "storrs-geoffrey-tanner",
+          "storrs-anastasios-tzingounis",
+          "storrs-jianzhong-yu",
+          "storrs-georgia-zarkada"
+        ],
+        "window": "2021-10-28 through 2026-10-28 retained for comparison"
       }
     ]
   },
@@ -341,9 +403,9 @@
     "publicationRule": "Author positions are derived from the ordered indexed author list and the already verified author identity. Middle coauthor is an author-position category, not an assessment of contribution. Last author is not automatically a PI. Corresponding authorship and equal contribution are not systematically verified.",
     "fundingRule": "Contact PI and multiple/named PI are recorded RePORTER roles. Co-investigator is retained where explicitly sourced. Other recipient, mentor, project-lead and philanthropic support roles remain separate; subproject scope is labeled.",
     "authorshipLinkCounts": {
-      "last": 203,
-      "middle": 401,
-      "first": 13,
+      "last": 210,
+      "middle": 406,
+      "first": 14,
       "sole": 10,
       "unknown": 4
     }
