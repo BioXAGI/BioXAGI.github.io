@@ -1,15 +1,16 @@
-YALE–UCONN BIOMEDICAL RESEARCH ATLAS — EDITION 9
+YALE–UCONN BIOMEDICAL RESEARCH ATLAS — EDITION 10
 Core dataset reviewed October 28, 2026; clinical layer reviewed October 30, 2026
 
 OPEN biomedical-atlas.html in a modern browser. It is a self-contained offline web
 app; source links require internet. No installation or server is needed.
 
-126 curated profiles: Yale 18, UConn Health 37, UConn Storrs 66, JAX-affiliated 5.
-All 15 domains; 511 shared-topic edges.
+176 curated profiles: Yale 18, UConn Health 37, UConn Storrs 108, regional campuses 8, JAX-affiliated 5.
+Biology Programs: MCB 43, EEB 32, PNB 25; 50 profiles added in this update.
+All 15 domains; 590 shared-topic edges.
 PNB faculty audit 1 November 2026: all 25 current directory entries included.
 Directory-only entries do not establish active labs. Six emeritus-category and two
 in-memoriam entries remain in the separate coverage audit.
-564 unique matched publications and 1032 unique funding records.
+632 unique matched publications and 1044 unique funding records.
 Publication and funding counts are source-search results, not an exhaustive census.
 
 STUDENT WORK
@@ -113,5 +114,5 @@ Selective faculty coverage, not all faculty at these institutions. Metadata and
 institutional sources were checked; full texts were not systematically reviewed.
 Topics are editorial classifications. Historical work can predate current affiliation.
 No clinical efficacy or current trial recruitment is inferred. The atlas is independent
-and not endorsed by these institutions. No hosted deployment was completed; the
-standalone file is the usable deliverable.
+and not endorsed by these institutions. Hosted at
+https://bioxagi.github.io/biomedical-atlas/; the standalone file also works offline.

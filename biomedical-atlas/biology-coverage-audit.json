@@ -1,0 +1,938 @@
+{
+  "checked": "2026-11-01",
+  "source": "https://biology.clas.uconn.edu/",
+  "researchSource": "https://biology.clas.uconn.edu/research/",
+  "roster": [
+    {
+      "name": "Nathan Alder",
+      "url": "https://mcb.uconn.edu/person/nathan-alder/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-alder",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Andrei Alexandrescu",
+      "url": "https://mcb.uconn.edu/person/andrei-alexandrescu/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-andrei-alexandrescu",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Kenneth Campellone",
+      "url": "https://mcb.uconn.edu/person/kenneth-campellone/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-kenneth-campellone",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Leighton Core",
+      "url": "https://mcb.uconn.edu/person/leighton-core/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-leighton-core",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "David Daggett",
+      "url": "https://mcb.uconn.edu/person/david-daggett/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-david-daggett",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Melissa Durstin",
+      "url": "https://mcb.uconn.edu/person/melissa-durstin/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-melissa-durstin",
+      "previouslyIncluded": false,
+      "campus": "Waterbury"
+    },
+    {
+      "name": "Jelena Erceg",
+      "url": "https://mcb.uconn.edu/person/jelena-erceg/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-jelena-erceg",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Daniel Gage",
+      "url": "https://mcb.uconn.edu/person/daniel-gage/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-daniel-gage",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Charles Giardina",
+      "url": "https://mcb.uconn.edu/person/charles-giardina/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-charles-giardina",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Jonathan Gilbert",
+      "url": "https://mcb.uconn.edu/person/jonathan-gilbert/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-jonathan-gilbert",
+      "previouslyIncluded": false,
+      "campus": "Stamford"
+    },
+    {
+      "name": "Peter Gogarten",
+      "url": "https://mcb.uconn.edu/person/peter-gogarten/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-peter-gogarten",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "David Goldhamer",
+      "url": "https://mcb.uconn.edu/person/david-goldhamer/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-david-goldhamer",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Stacey Hanlon",
+      "url": "https://mcb.uconn.edu/person/stacey-hanlon/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-stacey-hanlon",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Sarah Hird",
+      "url": "https://mcb.uconn.edu/person/sarah-hird/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-sarah-hird",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Lauren Jones",
+      "url": "https://mcb.uconn.edu/person/lauren-jones/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-lauren-jones",
+      "previouslyIncluded": false,
+      "campus": "Hartford"
+    },
+    {
+      "name": "Jonathan Klassen",
+      "url": "https://mcb.uconn.edu/person/jonathan-klassen/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-jonathan-klassen",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Elizabeth Kline",
+      "url": "https://mcb.uconn.edu/person/elizabeth-kline/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-elizabeth-kline",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Justin Kratovil",
+      "url": "https://mcb.uconn.edu/person/justin-kratovil/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-justin-kratovil",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Derek Laux",
+      "url": "https://mcb.uconn.edu/person/derek-laux/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-derek-laux",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Juliet Lee",
+      "url": "https://mcb.uconn.edu/person/juliet-lee/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-juliet-lee",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Pallavi Limaye",
+      "url": "https://mcb.uconn.edu/person/pallavi-limaye/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-pallavi-limaye",
+      "previouslyIncluded": false,
+      "campus": "Hartford"
+    },
+    {
+      "name": "Mark Longo",
+      "url": "https://mcb.uconn.edu/person/mark-longo/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-mark-longo",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Chris Malinoski",
+      "url": "https://mcb.uconn.edu/person/chris-malinoski/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-chris-malinoski",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Michele Maltz-Matyschsyk",
+      "url": "https://mcb.uconn.edu/person/michele-maltz-matyschsyk/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-michele-maltz-matyschsyk",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Eric May",
+      "url": "https://mcb.uconn.edu/person/eric-may/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-may",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Sarah McAnulty",
+      "url": "https://mcb.uconn.edu/person/sarah-mcanulty/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-sarah-mcanulty",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Barbara Mellone",
+      "url": "https://mcb.uconn.edu/person/barbara-mellone/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-mellone",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Kat Milligan-McClellan",
+      "url": "https://mcb.uconn.edu/person/kat-milligan-mcclellan/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-kat-milligan-mcclellan",
+      "previouslyIncluded": true,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Dylan Murray",
+      "url": "https://mcb.uconn.edu/person/dylan-murray/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-dylan-murray",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Craig Nelson",
+      "url": "https://mcb.uconn.edu/person/craig-nelson/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-craig-nelson",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Spencer Nyholm",
+      "url": "https://mcb.uconn.edu/person/spencer-nyholm/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-spencer-nyholm",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Michael O'Neill",
+      "url": "https://mcb.uconn.edu/person/michael-oneill/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-michael-oneill",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Rachel O'Neill",
+      "url": "https://mcb.uconn.edu/person/rachel-oneill/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-oneill",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Kristen Ramsey",
+      "url": "https://mcb.uconn.edu/person/kristen-ramsey/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-kristen-ramsey",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Victoria Robinson",
+      "url": "https://mcb.uconn.edu/person/victoria-robinson/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-victoria-robinson",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Patricia Rossi",
+      "url": "https://mcb.uconn.edu/person/patricia-rossi/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-patricia-rossi",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Michel Geovanni Santiago-Martinez (Geo)",
+      "url": "https://mcb.uconn.edu/person/michel-geovanni-santiago-martinez-geo/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-michel-geovanni-santiago-martinez",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Mahmoud Sharawy",
+      "url": "https://mcb.uconn.edu/person/mahmoud-sharawy/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-mahmoud-sharawy",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Carolyn Teschke",
+      "url": "https://mcb.uconn.edu/person/carolyn-teschke/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-carolyn-teschke",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Katie Toedt",
+      "url": "https://mcb.uconn.edu/person/katie-toedt/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-katie-toedt",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Masakazu Yamamoto",
+      "url": "https://mcb.uconn.edu/person/masakazu-yamamoto/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-masakazu-yamamoto",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Ping Zhang",
+      "url": "https://mcb.uconn.edu/person/ping-zhang/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "uconn-bio-ping-zhang",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Adam Zweifach",
+      "url": "https://mcb.uconn.edu/person/adam-zweifach/",
+      "department": "mcb",
+      "category": "faculty",
+      "id": "storrs-adam-zweifach",
+      "previouslyIncluded": true,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Thomas Abbott",
+      "url": "https://mcb.uconn.edu/person/thomas-abbott/",
+      "department": "mcb",
+      "role": "Associate Professor-in-Residence",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Arlene Albert",
+      "url": "https://mcb.uconn.edu/person/arlene-albert/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "David Benson",
+      "url": "https://mcb.uconn.edu/person/david-benson/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Thomas Chen",
+      "url": "https://mcb.uconn.edu/person/thomas-chen/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "James Cole",
+      "url": "https://mcb.uconn.edu/person/james-cole/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Lawrence Hightower",
+      "url": "https://mcb.uconn.edu/person/lawrence-hightower/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Judith Kelly",
+      "url": "https://mcb.uconn.edu/person/judith-kelly/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "David Knecht",
+      "url": "https://mcb.uconn.edu/person/david-knecht/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "James Knox",
+      "url": "https://mcb.uconn.edu/person/james-knox/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Jean Lucas-Lenard",
+      "url": "https://mcb.uconn.edu/person/jean-lucas-lenard/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Michael Lynes",
+      "url": "https://mcb.uconn.edu/person/michael-lynes/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Kenneth Noll",
+      "url": "https://mcb.uconn.edu/person/kenneth-noll/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Linda Strausbaugh",
+      "url": "https://mcb.uconn.edu/person/linda-strausbaugh/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Thomas Terry",
+      "url": "https://mcb.uconn.edu/person/thomas-terry/",
+      "department": "mcb",
+      "role": "Associate Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Philip Yeagle",
+      "url": "https://mcb.uconn.edu/person/philip-yeagle/",
+      "department": "mcb",
+      "role": "Professor Emeritus",
+      "groups": "Emeriti",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "David Bolnick",
+      "url": "https://mcb.uconn.edu/person/david-bolnick/",
+      "department": "mcb",
+      "role": "Professor, Ecology and Evolutionary Biology",
+      "groups": "Joint Affiliated Faculty",
+      "existingId": null,
+      "category": "joint-affiliated",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Steven Geary",
+      "url": "https://mcb.uconn.edu/person/steven-geary/",
+      "department": "mcb",
+      "role": "Professor, Pathobiology and Veterinary Science",
+      "groups": "Joint Affiliated Faculty",
+      "existingId": null,
+      "category": "joint-affiliated",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Theodore Rasmussen",
+      "url": "https://mcb.uconn.edu/person/theodore-rasmussen/",
+      "department": "mcb",
+      "role": "Associate Professor of Pharmacology and Toxicology",
+      "groups": "Joint Affiliated Faculty",
+      "existingId": null,
+      "category": "joint-affiliated",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Daniel Rosenberg",
+      "url": "https://mcb.uconn.edu/person/daniel-rosenberg/",
+      "department": "mcb",
+      "role": "Professor of Medicine UConn Health",
+      "groups": "Joint Affiliated Faculty",
+      "existingId": null,
+      "category": "joint-affiliated",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Lawrence Silbart",
+      "url": "https://mcb.uconn.edu/person/lawrence-silbart/",
+      "department": "mcb",
+      "role": "Professor Allied Health Sciences",
+      "groups": "Joint Affiliated Faculty",
+      "existingId": null,
+      "category": "joint-affiliated",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Pieter Visscher",
+      "url": "https://mcb.uconn.edu/person/pieter-visscher/",
+      "department": "mcb",
+      "role": "Professor, Marine Sciences",
+      "groups": "Joint Affiliated Faculty",
+      "existingId": null,
+      "category": "joint-affiliated",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Steven Zinn",
+      "url": "https://mcb.uconn.edu/person/steven-zinn/",
+      "department": "mcb",
+      "role": "Professor Animal Science",
+      "groups": "Joint Affiliated Faculty",
+      "existingId": null,
+      "category": "joint-affiliated",
+      "note": "Directory affiliation category retained."
+    },
+    {
+      "name": "Robert Bagchi",
+      "url": "https://eeb.uconn.edu/person/robert-bagchi/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-robert-bagchi",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "James Bernot",
+      "url": "https://eeb.uconn.edu/person/james-bernot/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-james-bernot",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Daniel Bolnick",
+      "url": "https://eeb.uconn.edu/person/daniel-bolnick/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-daniel-bolnick",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Andrew Bush",
+      "url": "https://eeb.uconn.edu/person/andrew-bush/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-andrew-bush",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "John Cooley",
+      "url": "https://eeb.uconn.edu/person/john-cooley/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-john-cooley",
+      "previouslyIncluded": false,
+      "campus": "Hartford"
+    },
+    {
+      "name": "Andrius Dagilis",
+      "url": "https://eeb.uconn.edu/person/andrius-dagilis/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-andrius-dagilis",
+      "previouslyIncluded": false,
+      "campus": "Campus not separately specified; department display group"
+    },
+    {
+      "name": "Miranda Davis",
+      "url": "https://eeb.uconn.edu/person/miranda-davis/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-miranda-davis",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Pamela Diggle",
+      "url": "https://eeb.uconn.edu/person/pamela-diggle/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-pamela-diggle",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Chris Elphick",
+      "url": "https://eeb.uconn.edu/person/chris-elphick/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-chris-elphick",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Michael Finiguerra",
+      "url": "https://eeb.uconn.edu/person/michael-finiguerra/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-michael-finiguerra",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Adam Fry",
+      "url": "https://eeb.uconn.edu/person/adam-fry/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-adam-fry",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Nicole Fusco",
+      "url": "https://eeb.uconn.edu/person/nicole-fusco/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-nicole-fusco",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Carlos Garcia-Robledo",
+      "url": "https://eeb.uconn.edu/person/carlos-garcia-robledo/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-carlos-garcia-robledo",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Bernard Goffinet",
+      "url": "https://eeb.uconn.edu/person/bernard-goffinet/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-bernard-goffinet",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Susan Herrick",
+      "url": "https://eeb.uconn.edu/person/susan-herrick/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-susan-herrick",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Karolina Heyduk",
+      "url": "https://eeb.uconn.edu/person/karolina-heyduk/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-karolina-heyduk",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Elizabeth Jockusch",
+      "url": "https://eeb.uconn.edu/person/elizabeth-jockusch/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-elizabeth-jockusch",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Sarah Knutie",
+      "url": "https://eeb.uconn.edu/person/sarah-knutie/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-sarah-knutie",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Colin Kremer",
+      "url": "https://eeb.uconn.edu/person/colin-kremer/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-colin-kremer",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Louise Lewis",
+      "url": "https://eeb.uconn.edu/person/louise-lewis/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-louise-lewis",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Paul Lewis",
+      "url": "https://eeb.uconn.edu/person/paul-lewis/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-paul-lewis",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Edward McAssey",
+      "url": "https://eeb.uconn.edu/person/edward-mcassey/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-edward-mcassey",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Cory Merow",
+      "url": "https://eeb.uconn.edu/person/cory-merow/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-cory-merow",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Susan Preston-Berlin",
+      "url": "https://eeb.uconn.edu/person/susan-preston-berlin/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-susan-preston-berlin",
+      "previouslyIncluded": false,
+      "campus": "Waterbury"
+    },
+    {
+      "name": "Margaret Rubega",
+      "url": "https://eeb.uconn.edu/person/margaret-rubega/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-margaret-rubega",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Kurt Schwenk",
+      "url": "https://eeb.uconn.edu/person/kurt-schwenk/",
+      "department": "eeb",
+      "role": "Professor",
+      "groups": "Can advise MS in Biodiversity/Conservation|Can advise MS or Ph.D. students in EEB|Faculty|Professor Emeritus",
+      "existingId": null,
+      "category": "emeritus",
+      "note": "Recorded separately; not assumed to be a current primary-department laboratory. EEB Kurt Schwenk has conflicting Professor title / Professor Emeritus group metadata."
+    },
+    {
+      "name": "Jeff Seemann",
+      "url": "https://eeb.uconn.edu/person/jeff-seemann/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-jeff-seemann",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Stephen Trumbo",
+      "url": "https://eeb.uconn.edu/person/stephen-trumbo/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-stephen-trumbo",
+      "previouslyIncluded": false,
+      "campus": "Waterbury"
+    },
+    {
+      "name": "Mark Urban",
+      "url": "https://eeb.uconn.edu/person/mark-urban/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-mark-urban",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "David Wagner",
+      "url": "https://eeb.uconn.edu/person/david-wagner/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-david-wagner",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Jill Wegrzyn",
+      "url": "https://eeb.uconn.edu/person/jill-wegrzyn/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-jill-wegrzyn",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    },
+    {
+      "name": "Rod Wilson",
+      "url": "https://eeb.uconn.edu/person/rod-wilson/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-rod-wilson",
+      "previouslyIncluded": false,
+      "campus": "Stamford"
+    },
+    {
+      "name": "Yaowu Yuan",
+      "url": "https://eeb.uconn.edu/person/yaowu-yuan/",
+      "department": "eeb",
+      "category": "faculty",
+      "id": "uconn-bio-yaowu-yuan",
+      "previouslyIncluded": false,
+      "campus": "Storrs"
+    }
+  ],
+  "counts": {
+    "MCB": 43,
+    "EEB": 32,
+    "PNB": 25,
+    "added": 50,
+    "atlasTotal": 176
+  },
+  "notes": [
+    "Biology Programs is an umbrella for MCB, PNB and EEB, not an additional laboratory or affiliation.",
+    "Research interests do not establish a funded vacancy, active student headcount, specimen inventory or collaboration.",
+    "Broader ecology and evolution topics remain visible without forced biomedical domain assignments.",
+    "Regional campus appointments are labeled separately. Emeritus and joint-affiliation categories are retained in the audit; joint faculty are not automatically counted as primary department labs.",
+    "Kurt Schwenk is separately flagged because the EEB directory says Professor in the title but Professor Emeritus in group metadata."
+  ],
+  "studentResources": [
+    {
+      "title": "Biology student research and hands-on experiences",
+      "url": "https://bioadvising.clas.uconn.edu/get-involved/",
+      "note": "Program-level research, internships and organizations; not evidence of individual student participation or a current funded opening."
+    },
+    {
+      "title": "Biological Sciences Program",
+      "url": "https://biosci.clas.uconn.edu/",
+      "note": "Program link supplied by the Biology Programs hub."
+    }
+  ]
+}

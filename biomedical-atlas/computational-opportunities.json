@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-31",
+  "checked": "2026-11-01",
   "scope": "Targeted initial review, not an exhaustive lab or vacancy census. Advertised means recruiting language was found; availability has not been confirmed with the lab. Additional opportunity-only labs do not have complete atlas profiles and are not added to graph or funding ranks.",
   "labs": [
     {
@@ -129,6 +129,71 @@
       "url": "https://pnb.uconn.edu/person/scott-rich/",
       "researchUrl": "https://richlab.pnb.uconn.edu/",
       "date": "Undated recruitment text",
+      "checked": "2026-11-01"
+    },
+    {
+      "name": "Pallavi Limaye",
+      "institution": "UConn regional campuses",
+      "personId": "uconn-bio-pallavi-limaye",
+      "status": "methods",
+      "roles": [],
+      "methods": "Uses machine learning and natural language processing to investigate biological systems; also develops biology and biomedical-science curricula. Hartford appointment.",
+      "details": "Computational or quantitative methods are explicitly documented in the institutional profile / department research summary. No current computational vacancy or funded place was verified.",
+      "url": "https://mcb.uconn.edu/person/pallavi-limaye/",
+      "researchUrl": "https://mcb.uconn.edu/person/pallavi-limaye/",
+      "date": "Undated faculty description",
+      "checked": "2026-11-01"
+    },
+    {
+      "name": "Colin Kremer",
+      "institution": "UConn Storrs",
+      "personId": "uconn-bio-colin-kremer",
+      "status": "methods",
+      "roles": [],
+      "methods": "Combines mathematical and statistical approaches with phytoplankton experiments to study ecology, evolution and physiology in changing environments.",
+      "details": "Computational or quantitative methods are explicitly documented in the institutional profile / department research summary. No current computational vacancy or funded place was verified.",
+      "url": "https://eeb.uconn.edu/person/colin-kremer/",
+      "researchUrl": "https://eeb.uconn.edu/person/colin-kremer/",
+      "date": "Undated faculty description",
+      "checked": "2026-11-01"
+    },
+    {
+      "name": "Paul Lewis",
+      "institution": "UConn Storrs",
+      "personId": "uconn-bio-paul-lewis",
+      "status": "methods",
+      "roles": [],
+      "methods": "Develops Bayesian phylogenetic inference and model-selection methods.",
+      "details": "Computational or quantitative methods are explicitly documented in the institutional profile / department research summary. No current computational vacancy or funded place was verified.",
+      "url": "https://eeb.uconn.edu/person/paul-lewis/",
+      "researchUrl": "https://eeb.uconn.edu/person/paul-lewis/",
+      "date": "Undated faculty description",
+      "checked": "2026-11-01"
+    },
+    {
+      "name": "Cory Merow",
+      "institution": "UConn Storrs",
+      "personId": "uconn-bio-cory-merow",
+      "status": "methods",
+      "roles": [],
+      "methods": "Studies ecological modeling with maximum-entropy and Bayesian methods, plant demography, communities and invasive species.",
+      "details": "Computational or quantitative methods are explicitly documented in the institutional profile / department research summary. No current computational vacancy or funded place was verified.",
+      "url": "https://eeb.uconn.edu/person/cory-merow/",
+      "researchUrl": "https://eeb.uconn.edu/person/cory-merow/",
+      "date": "Undated faculty description",
+      "checked": "2026-11-01"
+    },
+    {
+      "name": "Jill Wegrzyn",
+      "institution": "UConn Storrs",
+      "personId": "uconn-bio-jill-wegrzyn",
+      "status": "methods",
+      "roles": [],
+      "methods": "Develops databases and software and integrates plant genomic, environmental and phenotypic data for evolutionary and conservation research.",
+      "details": "Computational or quantitative methods are explicitly documented in the institutional profile / department research summary. No current computational vacancy or funded place was verified.",
+      "url": "https://eeb.uconn.edu/person/jill-wegrzyn/",
+      "researchUrl": "https://eeb.uconn.edu/person/jill-wegrzyn/",
+      "date": "Undated faculty description",
       "checked": "2026-11-01"
     }
   ]
