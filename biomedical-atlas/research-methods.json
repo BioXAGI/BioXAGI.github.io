@@ -1,12 +1,12 @@
 {
   "counts": {
-    "researchers": 101,
-    "uniquePublications": 549,
-    "researcherPublicationLinks": 626,
+    "researchers": 106,
+    "uniquePublications": 553,
+    "researcherPublicationLinks": 631,
     "uniqueAwardRecords": 985,
     "researcherAwardLinks": 1014,
     "publicationStatus": {
-      "searched": 101
+      "searched": 106
     }
   },
   "publications": {
@@ -282,7 +282,20 @@
       "uniqueVerifiedPublications": 549,
       "researchersWithVerifiedPublications": 79,
       "unresolvedResearcherPublicationCandidates": 2996
-    }
+    },
+    "supplementalRetrievals": [
+      {
+        "date": "2026-11-01",
+        "researcherIds": [
+          "storrs-andrei-alexandrescu",
+          "storrs-daniel-gage",
+          "storrs-peter-gogarten",
+          "storrs-sarah-hird",
+          "storrs-jonathan-klassen"
+        ],
+        "window": "2021-10-28 through 2026-10-28 retained for comparison"
+      }
+    ]
   },
   "federalFunding": {
     "source": "https://api.reporter.nih.gov/v2/projects/search",
@@ -300,7 +313,20 @@
       "storrs-kristen-ramsey": "https://mcb.uconn.edu/person/kristen-ramsey/",
       "jax-palucka": "https://reporter.nih.gov/project-details/10768214",
       "yale-saltzman": "https://seas.yale.edu/faculty-research/faculty-directory/w-mark-saltzman"
-    }
+    },
+    "supplementalRetrievals": [
+      {
+        "date": "2026-11-01",
+        "researcherIds": [
+          "storrs-andrei-alexandrescu",
+          "storrs-daniel-gage",
+          "storrs-peter-gogarten",
+          "storrs-sarah-hird",
+          "storrs-jonathan-klassen"
+        ],
+        "window": "2021-10-28 through 2026-10-28 retained for comparison"
+      }
+    ]
   },
   "otherFunding": {
     "scope": "Supplemental primary-source non-NIH funding evidence, 2021-10-28 through 2026-10-28. Includes awards with documented project-period overlap and awards/support announced in the window. Not an exhaustive non-NIH grant census.",
@@ -316,9 +342,9 @@
     "fundingRule": "Contact PI and multiple/named PI are recorded RePORTER roles. Co-investigator is retained where explicitly sourced. Other recipient, mentor, project-lead and philanthropic support roles remain separate; subproject scope is labeled.",
     "authorshipLinkCounts": {
       "last": 203,
-      "middle": 398,
+      "middle": 401,
       "first": 13,
-      "sole": 8,
+      "sole": 10,
       "unknown": 4
     }
   },
