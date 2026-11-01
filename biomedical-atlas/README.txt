@@ -115,4 +115,3 @@ Topics are editorial classifications. Historical work can predate current affili
 No clinical efficacy or current trial recruitment is inferred. The atlas is independent
 and not endorsed by these institutions. No hosted deployment was completed; the
 standalone file is the usable deliverable.
-
