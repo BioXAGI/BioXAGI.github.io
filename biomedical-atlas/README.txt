@@ -1,12 +1,15 @@
-YALE–UCONN BIOMEDICAL RESEARCH ATLAS — EDITION 8
+YALE–UCONN BIOMEDICAL RESEARCH ATLAS — EDITION 9
 Core dataset reviewed October 28, 2026; clinical layer reviewed October 30, 2026
 
 OPEN biomedical-atlas.html in a modern browser. It is a self-contained offline web
 app; source links require internet. No installation or server is needed.
 
-101 curated researchers: Yale 18, UConn Health 37, UConn Storrs 41, JAX-affiliated 5.
-All 15 domains; 12 cancer-vaccine profiles; 460 shared-topic edges.
-549 unique matched publications and 985 unique funding records.
+126 curated profiles: Yale 18, UConn Health 37, UConn Storrs 66, JAX-affiliated 5.
+All 15 domains; 511 shared-topic edges.
+PNB faculty audit 1 November 2026: all 25 current directory entries included.
+Directory-only entries do not establish active labs. Six emeritus-category and two
+in-memoriam entries remain in the separate coverage audit.
+564 unique matched publications and 1032 unique funding records.
 Publication and funding counts are source-search results, not an exhaustive census.
 
 STUDENT WORK
@@ -112,3 +115,4 @@ Topics are editorial classifications. Historical work can predate current affili
 No clinical efficacy or current trial recruitment is inferred. The atlas is independent
 and not endorsed by these institutions. No hosted deployment was completed; the
 standalone file is the usable deliverable.
+
